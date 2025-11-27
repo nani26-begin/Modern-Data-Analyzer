@@ -171,25 +171,3 @@ You can reach out or connect with me here 👇
 💼 LinkedIn: Kakumanu Ajit Babu
 
 📧 Email: kakumanuajitbabu@gmail.com
-
-<p align="center"> Built with ❤️ by <a href="https://www.linkedin.com/in/kakumanu-ajit-babu-804951334/">Ajit Babu Kakumanu</a> </p> ```
-You can:
-
-Save this as README.md in your project folder.
-
-Optionally tweak the title/description to match your repo name.
-
-Later add real screenshots in a screenshots/ folder and update the image paths.
-
-
-
-
-
-
-
-
-
-
-
-
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
